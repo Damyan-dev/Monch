@@ -9247,3 +9247,10 @@ TopDownGameMode_C.ReceiveBeginPlay
 [2021.02.01-13.26.51:563][260]LogSlate: Window 'Message Log' being destroyed
 [2021.02.01-13.27.09:895][370]LogSlate: Window 'Project Settings' being destroyed
 [2021.02.01-13.27.09:915][370]LogSlate: Window 'Project Settings' being destroyed
+[2021.02.01-13.28.41:267][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.02.01-13.28.41:299][904]LogSavePackage: Moving '../../../../Unreal Projects/ip2-coursework/IP2/Saved/TopDownExampleMapC664FB7F441BE910D21B48A6C012F6D7.tmp' to '../../../../Unreal Projects/ip2-coursework/IP2/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.02.01-13.28.41:325][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData" FILE="../../../../Unreal Projects/ip2-coursework/IP2/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2021.02.01-13.28.41:392][904]LogSavePackage: Moving '../../../../Unreal Projects/ip2-coursework/IP2/Saved/TopDownExampleMap_BuiltDataF890D36744E68E1ACF870B808BB8D9C4.tmp' to '../../../../Unreal Projects/ip2-coursework/IP2/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.02.01-13.28.41:407][904]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.01-13.28.41:407][904]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.02.01-13.28.41:407][904]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
