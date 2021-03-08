@@ -1728,3 +1728,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.08-01.16.10:500][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.03.08-01.16.10:515][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
 [2021.03.08-01.16.10:547][123]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.03.08-01.17.17:717][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.03.08-01.17.17:733][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/World1_1" FILE="../../../../../../Users/drakk/Documents/GitHub/ip2-coursework/IP2/Content/Maps/World1_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.08-01.17.17:737][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.03.08-01.17.17:761][868]LogSavePackage: Moving '../../../../../../Users/drakk/Documents/GitHub/ip2-coursework/IP2/Saved/World1_1BF644AD74344F79322F80E94A4415824.tmp' to '../../../../../../Users/drakk/Documents/GitHub/ip2-coursework/IP2/Content/Maps/World1_1.umap'
+[2021.03.08-01.17.17:775][868]LogFileHelpers: Saving map 'World1_1' took 0.042
+[2021.03.08-01.17.17:783][868]AssetCheck: New page: Asset Save: World1_1
+[2021.03.08-01.17.17:783][868]LogContentValidation: Display: Validating World /Game/Maps/World1_1.World1_1
